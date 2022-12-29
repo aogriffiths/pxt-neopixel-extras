@@ -9,5 +9,6 @@
   "author": "Adam Griffiths",
   "license": "MIT",
   "dependencies": {
+    "pxt": "^0.5.1"
   }
 }
