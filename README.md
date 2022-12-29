@@ -1,4 +1,4 @@
-# Neopixel extras
+# Micro:Bit Neopixel Extras
 Neopixel extras, like working with a pixel grid, in a makecode extension for the BBC Micro:Bit
 
 
