@@ -1,7 +1,7 @@
 {
   "name": "pxt-neopixel-extras",
   "version": "0.0.1",
-  "description": "",
+  "description": "Neopixel extras, like working with a pixel grid, in a makecode extension for the BBC Micro:Bit",
   "main": "main.ts",
   "scripts": {
     "build": "pxt build",
