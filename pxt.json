@@ -6,7 +6,7 @@
     },
     "files": [
         "README.md",
-        "custom.ts"
+        "main.ts"
     ],
     "targetVersions": {
         "branch": "v5.0.12",
