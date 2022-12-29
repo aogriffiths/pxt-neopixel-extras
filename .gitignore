@@ -1,13 +1,14 @@
-#PXT
+# MakeCode
 built
 node_modules
 yotta_modules
 yotta_targets
 pxt_modules
+_site
 *.db
 *.tgz
 .header.json
-
+.simstate.json
 
 #MacOS General
 .DS_Store
