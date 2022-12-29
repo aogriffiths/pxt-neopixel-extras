@@ -1,0 +1,13 @@
+{
+  "name": "pxt-neopixel-extras",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Griffiths",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
