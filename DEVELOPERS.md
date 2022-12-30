@@ -4,6 +4,9 @@
 ```
 git clone
 npm install
+npx pxt target microbit
+npx pxt serve
+
 npm run build
 ```
 
