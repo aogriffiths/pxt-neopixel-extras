@@ -71,7 +71,7 @@ namespace neopixelExtras {
 
 
         getPixel(x: number, y: number): number{
-          var res = {
+          let res = {
              full: x,
              rem: y
           }
