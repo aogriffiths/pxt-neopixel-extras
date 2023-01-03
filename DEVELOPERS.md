@@ -3,7 +3,7 @@
 
 To get started in a local development environment use
 
-```
+```bash
 # setup a makecode development environment
 git clone https://github.com/aogriffiths/microbit-makecode-dev-environment
 cd microbit-makecode-dev-environment
@@ -16,11 +16,13 @@ git clone https://github.com/aogriffiths/pxt-neopixel-extras
 # link to the examples projects so the makecode editor can serve them
 ln -s ./pxt-neopixel-extras/projects/* .
 
+# run the makecode editor
 cd ..
 npm run serve &
+
 ```
 
-This will start the makecode editor  on your localhost but it will be using browser localstorage to store projects by default. To access projects in your projects directory you will need to add `?ws=fs` to the URL. For example [http://localhost:3232/index.html?ws=fs]()
+This will open the makecode editor in your browser, but by default it will start serving projects fro your local storage. To access projects in the project folder created above add `?ws=fs` too the URL as follows [http:\\localhost:3232/index.html?ws=fs]().
 
 ## Background
 
