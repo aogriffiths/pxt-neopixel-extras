@@ -1,9 +1,7 @@
 # Micro:Bit Neopixel Extras
 Neopixel extras, like working with a pixel grid, in a makecode extension for the BBC Micro:Bit
 
-
-
-> Open this page at [https://.github.io//](https://.github.io//)
+> Open this page at [https://github.com/aogriffiths/pxt-neopixel-extras](https://github.com/aogriffiths/pxt-neopixel-extras)
 
 ## Use as Extension
 
