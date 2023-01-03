@@ -10,6 +10,7 @@ cd microbit-makecode-dev-environment
 npm install
 
 # clone this project into your local projects
+mkdir projects
 cd projects
 git clone https://github.com/aogriffiths/pxt-neopixel-extras
 # link to the examples projects so the makecode editor can serve them
