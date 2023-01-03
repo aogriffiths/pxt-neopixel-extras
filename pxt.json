@@ -2,7 +2,8 @@
     "name": "Neopixel Extras",
     "description": "Neopixel extras, like working with a pixel grid, in a makecode extension for the BBC Micro:Bit",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.3"
     },
     "files": [
         "README.md",
