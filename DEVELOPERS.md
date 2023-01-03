@@ -1,14 +1,25 @@
 
 ## Quick start
 
-```
-git clone
-npm install
-npx pxt target microbit
-npx pxt serve
+To get started in a local development environment use
 
-npm run build
 ```
+# setup a makecode development environment
+git clone https://github.com/aogriffiths/microbit-makecode-dev-environment
+cd microbit-makecode-dev-environment
+npm install
+
+# clone this project into your local projects
+cd projects
+git clone https://github.com/aogriffiths/pxt-neopixel-extras
+# link to the examples projects so the makecode editor can serve them
+ln -s ./pxt-neopixel-extras/projects/* .
+
+cd ..
+npm run serve &
+```
+
+This will start the makecode editor  on your localhost but it will be using browser localstorage to store projects by default. To access projects in your projects directory you will need to add `?ws=fs` to the URL. For example [http://localhost:3232/index.html?ws=fs]()
 
 ## Background
 
