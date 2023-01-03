@@ -39,7 +39,7 @@ enum stripDirection{
 
 }
 
-//% weight=6 color=#00CC60 icon="\uf110"
+//% weight=6 color=#00CC60 icon="\uf110" block="Neopixel Extras"
 namespace neopixelExtras {
 
     /**
