@@ -27,6 +27,24 @@ This image may take a few minutes to refresh.
 
 ![A rendered view of the blocks](https://github.com//raw/master/.github/makecode/blocks.png)
 
+## Examples
+
+Examples are kept in the `./projects/` directory of this repository. To use them you will need to link to them from your makecode projects directory as follows:
+
+```
+cd <your makecode dev environment>/projects
+# symbolic link examples
+ln -s ./pxt-neopixel-extras/projects/* .
+```
+
+If you can't us `ln -s` you can copy the examples instead:
+
+```
+cd <your makecode dev environment>/projects
+# recursive copy examples
+cp -r ./pxt-neopixel-extras/projects/* .
+```
+
 #### Metadata (used for search, rendering)
 
 * for PXT/
