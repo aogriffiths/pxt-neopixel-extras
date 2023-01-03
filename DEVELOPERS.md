@@ -14,9 +14,10 @@ npm run build
 
 This project started following the documentation from [makecode.microbit.org/extensions/build-your-own](https://makecode.microbit.org/extensions/build-your-own). The documentation referenced was specifically:
 
- * Getting started: [here](https://makecode.com/extensions/getting-started)
- * Building your own extension: [here](https://makecode.com/extensions/getting-started/vscode)
- * Command line tool: [here](https://makecode.com/cli)
+ * Getting started in [getting-started](https://makecode.com/extensions/getting-started)
+ * Building your own extension in [getting-started/vscode](https://makecode.com/extensions/getting-started/vscode)
+ * Command line tool in [cli](https://makecode.com/cli)
+ * Full documentation in [defining-blocks](https://makecode.com/defining-blocks)
 
 ## Development history
 
